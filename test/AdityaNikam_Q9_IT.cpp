@@ -1,0 +1,1 @@
+// Q9 (C++ – Language): Write a program to implement a priority queue using STL (max-heap). Input format: the first line contains an integer q (number of operations), followed by q lines of operations (insert x, pop, top). Output format: for each top operation, print the maximum element. Example: Input: 5 and insert 10 insert 20 top pop top, Output: 20 10.
